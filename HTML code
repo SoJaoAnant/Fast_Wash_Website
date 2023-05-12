@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FastWash</title>
+    <link rel="stylesheet" href="sources/style.css">
+</head>
+
+<body>
+    <header>
+        <div class="main">
+            <div class="logo">
+                <img src="sources/logo.png" alt="bro wtf you doin'">
+            </div>
+            <ul>
+                <li class="active"><a href="sources/Home.jpeg" target="_blank">Home</a></li>
+                <li><a href="sources/Services.jpeg" target="_blank">Services</a></li>
+                <li><a href="sources/Gallery.jpg" target="_blank">Gallery</a></li>
+                <li><a href="sources/about.jpeg" target="_blank">About</a></li>
+                <li><a href="sources/Pink Minimal Typography Logo .png" target="_blank">Logo</a></li>
+                <li><a href="sources/Pink Minimal Typography Logo .jpg" target="_blank">Logo2</a></li>
+            </ul>
+        </div>
+        <div class="title">
+            <h1>Fast Wash</h1>
+        </div>
+        <div class="button">
+            <a href="https://youtu.be/d1iIV-ngARo?t=17" class="butt" target="_blank">WATCH VIDEO</a>
+            <a href="https://www.youtube.com/watch?v=LizXI1NCwVs" class="butt" target="_blank">LEARN MORE</a>
+        </div>
+    </header>
+</body>
+
+</html>
